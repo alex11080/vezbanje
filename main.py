@@ -7,3 +7,5 @@ def vraca(nesto):
     return False
 
 print(vraca([1, 2, 5]))
+
+danas
